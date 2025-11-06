@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
 -->
+
 - 🌱 На данный момент я обучаюсь на графического дизайнера
 
 <!--
@@ -30,7 +31,9 @@ Here are some ideas to get you started:
 <!--
 - 💬 Ask me about ...
 -->
+
 - 📫 Как со мной связаться: [![Telegram](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ImDexStar)
+
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
