@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
 - 📫 Как со мной связаться: [![Telegram](https://img.shields.io/badge/-DexStar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SSWWAAGG1)
 
 <!--
