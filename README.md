@@ -9,7 +9,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MinimalisTy&style=flat-square&color=blue" alt="Counter"/>
 </div>
-##Хай🖐️
+<div align="center">
+  <h1>Хай🖐️</h1>
+</div>
 <!--
 **MinimalisTy/MinimalisTy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
