@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-- 📫 Как со мной связаться: [![Telegram](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ImDexStar)
+- 📫 Как со мной связаться: [![Telegram](https://img.shields.io/badge/-DexStar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ImDexStar)
 
 <!--
 - 😄 Pronouns: ...
