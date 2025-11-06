@@ -2,7 +2,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWk3a2JyeDZodzNxNDB3ODlvdXVmc2sxdTlydWYwZ3U0amtxeTRhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5dLoIhuX12Nl1MnQJ1/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/ImDexStar">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
