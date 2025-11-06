@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 - 🌱 На данный момент я обучаюсь на графического дизайнера
+
 <!--
 - 👯 I’m looking to collaborate on ...
 -->
